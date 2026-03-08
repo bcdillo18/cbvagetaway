@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://cbvagetaway.com/sitemap.xml
+
+# Crawl optimization
+Crawl-delay: 5
